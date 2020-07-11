@@ -1,0 +1,53 @@
+body
+———————————— 	
+background color 
+#c2c5d6
+fonts
+Helvetica, Arial, sans-serif	
+font color #444
+
+
+————————————————
+container color
+background #ffffff
+
+
+
+—————————————————
+Footer
+background color #602e8b
+
+
+_____________________	
+link
+color#959bd1
+
+
+
+
+a:hover
+text decoration underline
+____________________
+
+
+h1 
+color: #602E8B;
+
+—————————
+main navigation li 
+color #6a6a6a
+
+
+
+———————
+li hover
+color: #000;
+
+
+
+room service
+——————————
+background no-repeating
+background image
+background-color:#FFFFFF
+
